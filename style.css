@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+}
+
+.left_plants {
+    margin: 0;
+    position: absolute;
+    left: 60px;
+    top: 0;
+}
+
+li {
+    list-style-type: none;
+    display: inline-flex;
+    font-size: 10px;
+    position: absolute;
+    top: 5px;
+}
+
+.one {
+    position: absolute;
+    left: 260px;
+}
+
+.two {
+    position: absolute;
+    left: 300px;
+}
+
+.three {
+    position: absolute;
+    left: 350px;
+}
+
+.four {
+    position: absolute;
+    left: 400px;
+}
+
+.five {
+    position: absolute;
+    left: 430px;
+}
+
+.six {
+    color: gray;
+    position: absolute;
+    left: 630px;
+    font-size: 10px;
+}
+
+.up {
+    position: absolute;
+    top: 0;
+    font-size: 10px;
+    left: 675px;
+    width: 50px;
+    height: 20px;
+    color: white;
+    background-color: green;
+    border-radius: 10%;
+}
+
+.grow1 {
+    position: absolute;
+    left: 60px;
+    top: 30px;
+
+}
+.grow2 {
+    position: absolute;
+    left: 60px;
+    top: 55px;
+
+}
+.grow3 {
+    position: absolute;
+    left: 60px;
+    top: 80px;
+}
+
+.Lorems {
+    font-size: 10px;
+}
+
+.lorem1 {
+    position: absolute;
+    top: 160px;
+    left: 60px;
+    color: grey;
+}
+
+.lorem2 {
+    position: absolute;
+    top: 180px;
+    left: 60px;
+    color: grey;
+}
+
+.lorem3 {
+    position: absolute;
+    top: 200px;
+    left: 60px;
+    color: grey;
+}
+
+#Learn {
+    position: absolute;
+    top: 250px;
+    left: 60px;
+    color: white;
+    background-color: green;
+}
+
+.thousandone {
+    position: absolute;
+    top: 300px;
+    left: 60px;
+    font-size: 25px;
+    color: green;
+}
+
+.thousandtwo {
+    position: absolute;
+    top: 300px;
+    left: 150px;
+    font-size: 25px;
+    color: green;
+}
+
+.thousandthree {
+    position: absolute;
+    top: 300px;
+    left: 240px;
+    font-size: 25px;
+    color: green;
+}
+
